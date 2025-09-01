@@ -1,0 +1,7 @@
+# バックエンド
+cd backend
+npm start
+
+# フロントエンド
+cd frontend
+npm start
